@@ -10,7 +10,6 @@
 
 <br />
 
-![Dashboard Screenshot]
 
 
 
